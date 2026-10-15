@@ -3,15 +3,15 @@
 **App:** ScanQ - QR & Barcode Scanner  
 **Developer:** Duha Lab  
 **Effective Date:** September 21, 2026  
-**Last Updated:** September 21, 2026
+**Last Updated:** October 15, 2026
 
 ## Summary
 
-ScanQ does not collect, store, or transmit any personal data to us or any third party. All scan history, generated QR codes, and settings are stored only on your own device. ScanQ does not require an internet connection, does not use analytics or advertising SDKs, and does not require account creation.
+ScanQ does not collect, store, or transmit any personal data to us or any third party. All scan history, generated QR codes, and settings are stored only on your own device. ScanQ does not require an [...]
 
 ## 1. Introduction
 
-This Privacy Policy explains how ScanQ - QR & Barcode Scanner ("ScanQ", "the App", "we", "us") handles information when you use our mobile and desktop application. We built ScanQ with privacy as a core design principle: the App works fully offline and does not send your data anywhere.
+This Privacy Policy explains how ScanQ - QR & Barcode Scanner ("ScanQ", "the App", "we", "us") handles information when you use our mobile and desktop application. We built ScanQ with privacy as a cor[...]
 
 By using ScanQ, you agree to the terms described in this Privacy Policy. If you do not agree with this policy, please discontinue use of the App.
 
@@ -48,11 +48,11 @@ You can clear this data at any time via **Settings → Clear History** within th
 | Photos / Storage | Used only if you choose to scan a QR/barcode from an existing photo, or if you choose to save a generated QR code image to your gallery. |
 | Vibration | Used to provide haptic feedback when a scan is successful. |
 
-ScanQ does not request Internet, Location, Contacts, Microphone, or SMS-reading permissions. You may grant or deny these permissions at any time through your device's system settings; denying camera access will limit the App's core scanning functionality.
+ScanQ does not request Internet, Location, Contacts, Microphone, or SMS-reading permissions. You may grant or deny these permissions at any time through your device's system settings; denying camera a[...]
 
 ## 5. QR Code Generation & Sensitive Information
 
-When you use the "Create" feature to generate a QR code (for example, a WiFi network password, a vCard contact, a business card, or an event), the information you type is used solely to generate the QR code image on your device. This information:
+When you use the "Create" feature to generate a QR code (for example, a WiFi network password, a vCard contact, a business card, or an event), the information you type is used solely to generate the Q[...]
 
 - Is not sent to ScanQ, Duha Lab, or any third-party server
 - Remains on your device unless you choose to share or save the resulting QR image yourself
@@ -62,19 +62,19 @@ When you use the "Create" feature to generate a QR code (for example, a WiFi net
 
 ScanQ does not integrate any third-party analytics, advertising, or tracking SDKs. The App does not use Google Analytics, Firebase Analytics, AdMob, or similar services.
 
-If a future version of the App includes any third-party service (for example, crash reporting or advertising), this Privacy Policy will be updated in advance, and the update will be reflected in the "Last Updated" date above.
+If a future version of the App includes any third-party service (for example, crash reporting or advertising), this Privacy Policy will be updated in advance, and the update will be reflected in the "[...]
 
 ## 7. Data Sharing and Disclosure
 
-Because ScanQ does not collect or transmit personal data, we do not sell, rent, trade, or otherwise share any user data with third parties. We have no user data to disclose to law enforcement, advertisers, or any other party, as none is collected or stored outside your device.
+Because ScanQ does not collect or transmit personal data, we do not sell, rent, trade, or otherwise share any user data with third parties. We have no user data to disclose to law enforcement, adverti[...]
 
 ## 8. Children's Privacy
 
-ScanQ does not knowingly collect any information from anyone, including children under the age of 13 (or the relevant minimum age in your jurisdiction), because the App does not collect personal data at all. The App is safe for general audiences.
+ScanQ does not knowingly collect any information from anyone, including children under the age of 13 (or the relevant minimum age in your jurisdiction), because the App does not collect personal data [...]
 
 ## 9. Data Security
 
-Since all data generated and stored by ScanQ remains on your own device, the security of that data depends on your device's own security measures (screen lock, encryption, physical access control). We recommend keeping your device's operating system up to date and using a secure lock screen.
+Since all data generated and stored by ScanQ remains on your own device, the security of that data depends on your device's own security measures (screen lock, encryption, physical access control). We[...]
 
 ## 10. Your Rights and Choices
 
@@ -86,11 +86,11 @@ Because we do not hold any of your data on our servers, there is no data for us 
 
 ## 11. International Users
 
-ScanQ is available globally, including in English and Bengali (বাংলা). Since no data is transmitted to or stored on any server, no cross-border data transfer occurs as a result of using this App.
+ScanQ is available globally, including in English and Bengali (বাংলা). Since no data is transmitted to or stored on any server, no cross-border data transfer occurs as a result of using this[...]
 
 ## 12. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time to reflect changes in the App's functionality or for legal, regulatory, or operational reasons. Any changes will be posted on this page with a revised "Last Updated" date. We encourage you to review this page periodically.
+We may update this Privacy Policy from time to time to reflect changes in the App's functionality or for legal, regulatory, or operational reasons. Any changes will be posted on this page with a revis[...]
 
 ## 13. Contact Us
 
