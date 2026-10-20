@@ -9,6 +9,12 @@ Welcome to **ScanQ - QR & Barcode Scanner** ("we," "our," or "the App"). This Pr
 
 We are committed to a privacy-first approach. The App is designed to work without creating user accounts, without collecting personal data, and without sending your information to our servers.
 
+## Get the App on Google Play
+
+Download ScanQ from Google Play:
+
+https://play.google.com/store/apps/details?id=com.duhalab.scanq
+
 ---
 
 ## 1. Overview
@@ -18,7 +24,7 @@ We are committed to a privacy-first approach. The App is designed to work withou
 - **No account required:** You do not need to create an account, sign in, or provide personal details such as your name, email address, or phone number.
 - **Local-only processing:** QR and barcode scanning, code generation, scan history, favorites, and app settings are processed and stored on your device.
 - **No backend user database:** We do not operate a server that stores your scan history, generated QR data, app configuration, or personal information.
-- **User-controlled data:** Any data you manually enter to generate a QR code (for example, contact details, Wi‑Fi information, event details, or other text) remains on your device unless you choose to save or share it yourself.
+- **User-controlled data:** Any data you manually enter to generate a QR code (for example, contact details, Wi‑Fi information, event details, or other text) remains on your device unless you choose to save, share, or export it yourself.
 
 ---
 
@@ -76,7 +82,7 @@ You can delete this data at any time from the App's Settings screen or by uninst
 
 ## 4. QR Code Generation and Sensitive Information
 
-When you use the "Create" feature to generate a QR code (for example, a Wi‑Fi network password, vCard, business card, or event details), the information you enter is used only to generate the QR code on your device.
+When you use the "Create" feature to generate a QR code (for example, a Wi‑Fi network password, vCard, business card, or event details), the information you enter is used only to generate the QR code and remains under your control.
 
 This information:
 
@@ -117,7 +123,7 @@ Because the App does not collect personal data from any user, it is designed to 
 
 ## 8. Security
 
-We value your trust. Because your data remains on your device and is not transmitted to our servers by default, the security of your local data depends on your device's built-in protection measures, such as screen lock, OS security updates, and app permissions management.
+We value your trust. Because your data remains on your device and is not transmitted to our servers by default, the security of your local data depends on your device's built-in protection measures, such as screen locks and OS security features.
 
 We also design the App to minimize data collection and reduce privacy risk by keeping most data on-device only.
 
@@ -125,7 +131,7 @@ We also design the App to minimize data collection and reduce privacy risk by ke
 
 ## 9. International Users
 
-ScanQ is available globally, including in English and Bengali (বাংলা). Since no user data is transmitted to or stored on our servers by default, there are no cross-border personal data transfers from the App to our systems.
+ScanQ is available globally, including in English and Bengali (বাংলা). Since no user data is transmitted to or stored on our servers by default, there are no cross-border personal data transfers from our side.
 
 ---
 
