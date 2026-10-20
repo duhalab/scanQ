@@ -1,64 +1,65 @@
 # Privacy Policy for ScanQ - QR & Barcode Scanner
 
-**Effective Date:** October 15, 2026  
-**Last Updated:** October 15, 2026  
+**Effective Date:** October 20, 2026  
+**Last Updated:** October 20, 2026  
 **Developer / Publisher:** DuhaLab (Duha Lab)  
 **Contact Email:** support@duhalab.com
 
-Welcome to **ScanQ - QR & Barcode Scanner** ("we," "our," or "the App"). We are committed to protecting your privacy. This Privacy Policy explains how we handle data when you use our mobile application, with a focus on privacy, local processing, and the minimum permissions required to provide the App's core features.
+Welcome to **ScanQ - QR & Barcode Scanner** ("we," "our," or "the App"). This Privacy Policy explains how we handle information when you use the App.
+
+We are committed to a privacy-first approach. The App is designed to work without creating user accounts, without collecting personal data, and without sending your information to our servers.
 
 ---
 
 ## 1. Overview
 
-**ScanQ does not collect, store, transmit, or share your personal information with us or any third party.**
+**ScanQ does not collect, store, transmit, or share your personal information with us or with any third party.**
 
 - **No account required:** You do not need to create an account, sign in, or provide personal details such as your name, email address, or phone number.
-- **Local-only processing:** All QR and barcode scanning, code generation, history, and settings are processed and stored on your device.
-- **No external servers for user data:** We do not operate a server that stores your scan history, generated QR codes, app settings, or personal information.
-
-If you manually enter personal data to generate a QR code (for example, a vCard, contact details, Wi‑Fi credentials, or event information), that information remains on your device. It is only embedded in the generated QR image if you choose to save or share it yourself.
+- **Local-only processing:** QR and barcode scanning, code generation, scan history, favorites, and app settings are processed and stored on your device.
+- **No backend user database:** We do not operate a server that stores your scan history, generated QR data, app configuration, or personal information.
+- **User-controlled data:** Any data you manually enter to generate a QR code (for example, contact details, Wi‑Fi information, event details, or other text) remains on your device unless you choose to save or share it yourself.
 
 ---
 
 ## 2. Permissions Used by the App
 
-ScanQ requests only the minimum permissions needed for its core features. It does not request broad access to your personal data or media library.
+ScanQ requests only the minimum permissions necessary for its core features. We do not request broad access to your personal data, contacts, media library, location, microphone, or call logs.
 
 ### 2.1 Camera Permission (`android.permission.CAMERA`)
 
-- **Purpose:** Used to capture real-time frames so the App can detect and decode QR codes and barcodes.
-- **Data Handling:** Camera frames are processed locally on your device. They are never recorded, stored, uploaded, or transmitted to us or any third-party server.
+- **Purpose:** Used to capture live camera frames so the App can detect and decode QR codes and barcodes.
+- **Data Handling:** Camera frames are processed locally on your device. They are never recorded, uploaded, stored, or transmitted to us or any third-party server.
 
 ### 2.2 Photo / Gallery Access (Android System Photo Picker)
 
-- **Purpose:** If you choose to scan a QR code from an existing image, the App uses Android's modern built-in system Photo Picker.
-- **Data Handling:** The App receives only the single image you explicitly select. It does not browse, read, or upload your entire photo library.
-- **Google Play policy compliance:** ScanQ does not request broad media permissions such as `READ_EXTERNAL_STORAGE` or `READ_MEDIA_IMAGES`. This follows Google's Photo and Video permissions policy and protects user privacy.
+- **Purpose:** If you choose to scan a QR code from an existing image, the App uses Android's built-in Photo Picker.
+- **Data Handling:** The App receives only the single image you explicitly select. It does not browse, read, upload, or analyze your entire photo library.
+- **Policy compliance:** The App does not request broad photo/media permissions such as `READ_EXTERNAL_STORAGE` or `READ_MEDIA_IMAGES`.
 
 ### 2.3 Phone Call Permission (`android.permission.CALL_PHONE`)
 
 - **Purpose:** If you scan a QR code containing a phone number and choose the "Call" action, the App can initiate the call.
-- **Data Handling:** The App does not access your call logs, contacts, or other personal communication data.
+- **Data Handling:** The App does not access your call logs, contacts, SMS, or other personal communication data.
 
-### 2.4 Wi‑Fi Permissions
+### 2.4 Wi‑Fi Access
 
-- **Purpose:** If you scan a Wi‑Fi QR code and choose to connect to the network, the App may use the standard Wi‑Fi APIs available on the device.
-- **Data Handling:** Wi‑Fi credentials are used only to connect to the selected network. They are not transmitted to us.
+- **Purpose:** If you scan a Wi‑Fi QR code and choose to connect to the network, the App may use the device's standard Wi‑Fi APIs.
+- **Data Handling:** Wi‑Fi credentials are used only to connect to the selected network and are not transmitted to us.
 
 ### 2.5 Vibration (`android.permission.VIBRATE`)
 
-- **Purpose:** Provides haptic feedback when a scan is successfully decoded.
+- **Purpose:** Provides haptic feedback after a successful scan.
 
 ### 2.6 No Unnecessary Permissions
 
-The App does not request unnecessary permissions such as access to your contacts, microphone, SMS, call logs, or broad location tracking for advertising or analytics purposes.
+The App does not request unnecessary permissions such as access to your contacts, microphone, SMS, call logs, location data, or broad media access for advertising or analytics purposes.
 
 ---
 
 ## 3. Local Data Storage
 
-ScanQ stores the following information locally on your device only, using standard local storage (for example, SQLite or SharedPreferences). This data is never transmitted to us or any third party unless you explicitly choose to save or share a QR image or content yourself.
+ScanQ stores the following information locally on your device only, using standard local storage (such as SQLite or SharedPreferences):
 
 | Data Type | Purpose | Where It's Stored |
 |---|---|---|
@@ -67,70 +68,82 @@ ScanQ stores the following information locally on your device only, using standa
 | Generated QR Content | Store QR content you create (such as contact details, event information, Wi‑Fi credentials) | On-device only |
 | App Settings | Language, theme, sound, flashlight, and scan preferences | On-device only |
 
-You can delete this data at any time from the App's Settings screen, or remove it completely by uninstalling the App.
+This information is not transmitted to us or to any third party unless you manually choose to share the generated QR code or open a link outside the App.
+
+You can delete this data at any time from the App's Settings screen or by uninstalling the App.
 
 ---
 
 ## 4. QR Code Generation and Sensitive Information
 
-When you use the "Create" feature to generate a QR code (for example, a Wi‑Fi network password, vCard, business card, or event details), the information you type is used only to generate the QR code and:
+When you use the "Create" feature to generate a QR code (for example, a Wi‑Fi network password, vCard, business card, or event details), the information you enter is used only to generate the QR code on your device.
+
+This information:
 
 - Is not sent to ScanQ, Duha Lab, or any third-party server;
 - Remains on your device unless you choose to save or share the QR image yourself;
-- Is your responsibility to protect once shared — anyone who scans the QR code will be able to read it.
+- Is your responsibility to protect once shared — anyone who scans the QR code can read it.
 
 ---
 
 ## 5. Third-Party Services and Analytics
 
-ScanQ is built with a privacy-first approach.
+ScanQ is designed with a privacy-first approach.
 
 - We do **not** sell, rent, or trade your personal information.
 - We do **not** use tracking cookies or invasive third-party analytics that monitor you across apps or websites.
 - We do **not** use Google Analytics, Firebase Analytics, AdMob, or similar tracking services by default.
 - Any web links inside scanned QR codes are opened only when you explicitly tap them in your browser.
 
-If a future version of the App includes a third-party service (for example, optional crash reporting, analytics, or advertising), we will update this Privacy Policy in advance and clearly disclose the change.
+If a future version of the App includes an optional third-party service, such as crash reporting, analytics, or advertising, we will update this Privacy Policy in advance and clearly disclose how it is used.
 
 ---
 
 ## 6. Data Sharing and Disclosure
 
-Because ScanQ does not collect or transmit personal data to our servers, we do not sell, rent, trade, or otherwise share any user data with third parties. We have no user data to disclose to advertisers, data brokers, or law enforcement.
+Because ScanQ does not collect or transmit personal data to our servers, we do not sell, rent, trade, or otherwise share user data with third parties.
+
+We do not maintain user accounts, profiles, or personal datasets. Therefore, there is no user data for us to disclose, export, or transfer to advertisers or other parties.
 
 ---
 
 ## 7. Children's Privacy
 
-ScanQ does not knowingly collect or solicit personal information from children under the age of 13. Since the App does not collect personal data from any user, it is designed to comply with applicable child privacy protections.
+ScanQ does not knowingly collect or solicit personal information from children under the age of 13.
+
+Because the App does not collect personal data from any user, it is designed to comply with applicable privacy requirements for children and general app data protection practices.
 
 ---
 
 ## 8. Security
 
-We value your trust. Because your data remains on your device and is not sent to our servers by default, the security of your data depends on your device's built-in protection measures, such as screen lock, encryption, and secure storage. Please keep your device secure to protect locally stored scan history and generated QR content.
+We value your trust. Because your data remains on your device and is not transmitted to our servers by default, the security of your local data depends on your device's built-in protection measures, such as screen lock, OS security updates, and app permissions management.
+
+We also design the App to minimize data collection and reduce privacy risk by keeping most data on-device only.
 
 ---
 
 ## 9. International Users
 
-ScanQ is available globally, including in English and Bengali (বাংলা). Since no user data is transmitted to or stored on our servers by default, there are no cross-border data transfers from normal use of the App.
+ScanQ is available globally, including in English and Bengali (বাংলা). Since no user data is transmitted to or stored on our servers by default, there are no cross-border personal data transfers from the App to our systems.
 
 ---
 
 ## 10. Your Rights and Choices
 
-- **Access:** All local data stored by the App is visible to you in the App.
+- **Access:** The local data stored by the App is visible to you in the App.
 - **Deletion:** You can delete individual history items, clear all history, or uninstall the App to remove all locally stored data.
 - **Permission control:** You can revoke camera, photo, or other permissions at any time through your device settings.
 
-Because we do not hold your data on our servers, there is no data for us to export or delete on your behalf.
+Because we do not hold your data on our servers, there is no personal data for us to export or delete on your behalf.
 
 ---
 
 ## 11. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time to reflect changes in the App's functionality or applicable legal requirements. Any changes will be posted on this page with an updated date. We encourage you to review this policy periodically.
+We may update this Privacy Policy from time to time to reflect changes in the App's functionality, legal requirements, or privacy practices. Any changes will be posted on this page with an updated date.
+
+Continued use of the App after changes are posted means you accept the updated Privacy Policy.
 
 ---
 
