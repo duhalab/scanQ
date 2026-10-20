@@ -8,7 +8,7 @@ By downloading, installing, accessing, or using the application, you agree to th
 
 ## Get the App on Google Play
 
-Download ScanQ from Google Play:
+Download ScanQ — QR Code & Barcode Scanner from Google Play:
 
 https://play.google.com/store/apps/details?id=com.duhalab.scanq
 
