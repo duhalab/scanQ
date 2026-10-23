@@ -1,3 +1,6 @@
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
+[![Version](https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 # Terms of Service
 
 **Effective Date:** October 24, 2026  
