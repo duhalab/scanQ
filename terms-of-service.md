@@ -1,8 +1,11 @@
 # Terms of Service
 
-**Last Updated: October 20, 2026**
+**Effective Date:** October 24, 2026  
+**Last Updated:** October 24, 2026  
+**Developer / Publisher:** DuhaLab (Duha Lab)  
+**Contact Email:** support@duhalab.com
 
-Welcome to **ScanQ — QR Code & Barcode Scanner**, a QR code and barcode scanning and generation application developed and provided by **DuhaLab (Duha Lab)**.
+Welcome to **ScanQ — QR Code & Barcode Scanner**, a QR code and barcode scanning, generation, and utility application developed and provided by **DuhaLab (Duha Lab)** ("we," "our," or "the App").
 
 By downloading, installing, accessing, or using the application, you agree to these Terms of Service. If you do not agree with these terms, please do not use the application.
 
@@ -12,206 +15,237 @@ Download ScanQ — QR Code & Barcode Scanner from Google Play:
 
 https://play.google.com/store/apps/details?id=com.duhalab.scanq
 
+---
+
 ## 1. About the App
 
-ScanQ is a utility application that allows users to:
+ScanQ is a lightweight, privacy-first utility application that allows users to:
 
-* Scan QR codes and various barcode formats
-* Scan codes from images stored on the device
-* Generate and customize QR codes
-* Save and share generated QR codes
-* View and manage scan history
-* Favorite and delete saved scan results
-* Copy and share scanned information
-* Perform supported actions such as opening websites, calling phone numbers, sending emails or SMS, opening map locations, and saving supported contact information
-* Use the application in supported languages, including English and Bengali
+* Scan QR codes and various 1D/2D barcode formats in real-time using device camera
+* Scan barcodes and QR codes from images stored on the device via the system Photo Picker
+* Generate and customize QR codes for text, URLs, contacts, Wi‑Fi, email, SMS, phone numbers, and more
+* Save, export, and share generated QR codes
+* View, filter, and manage scan history locally on the device
+* Favorite, search, and delete saved scan results
+* Copy and share scanned raw and formatted information
+* Perform supported actions such as opening verified websites, calling phone numbers, sending emails/SMS, viewing map locations, and connecting to Wi‑Fi networks
+* Receive optional push notifications regarding app updates, security advisories, and feature releases
+* Use the application in supported languages, including English and Bengali (বাংলা)
 
-The available features may change, improve, or be discontinued as the application develops.
+The available features may change, improve, or be modified as the application develops.
+
+---
 
 ## 2. Acceptance of Terms
 
-By using ScanQ, you confirm that:
+By installing or using ScanQ, you confirm that:
 
-* You are legally permitted to use the application in your jurisdiction.
-* You will use the application only for lawful purposes.
-* You will not use the application to violate the rights of other people or organizations.
-* You are responsible for the information and content you scan, generate, save, or share.
+* You have the legal capacity to enter into these Terms in your jurisdiction.
+* You will use the application only for lawful, legitimate purposes.
+* You will not use the application to violate the rights of any person, entity, or organization.
+* You are solely responsible for the information and content you scan, generate, save, or share.
 
-If you do not agree to these Terms, you must stop using the application.
+If you do not agree to these Terms, you must stop using the application and uninstall it from your device.
+
+---
 
 ## 3. User Responsibility
 
 You are solely responsible for how you use the application and for any content you scan, generate, save, or share.
 
-DuhaLab does not control the content encoded in QR codes or barcodes created by third parties.
+DuhaLab does not control, preview, or verify the content encoded in third-party QR codes or barcodes.
 
 Users should independently verify information before:
 
-* Opening unfamiliar websites
-* Downloading files
-* Making payments
-* Calling unknown numbers
+* Opening unfamiliar or unverified websites
+* Downloading external files or APKs
+* Initiating financial transactions or payments
+* Calling unknown telephone numbers
 * Sending messages or emails
-* Connecting to Wi‑Fi networks
+* Connecting to unfamiliar Wi‑Fi networks
 * Adding contacts or calendar events
-* Providing personal or financial information
+* Submitting personal, confidential, or financial information
 
-A QR code may contain malicious, misleading, fraudulent, or unsafe content. You should exercise appropriate caution when scanning unknown codes.
+A QR code or barcode may link to malicious, misleading, fraudulent, or unsafe external resources. You should exercise appropriate caution and vigilance when scanning unknown codes in public or untrusted environments.
+
+---
 
 ## 4. No Guarantee of Third-Party Content
 
-The application may identify and provide actions for URLs, phone numbers, email addresses, payment information, locations, Wi‑Fi information, contacts, events, and other data encoded in QR codes or barcodes. DuhaLab does not own, control, verify, or guarantee third-party content accessed through scanned codes.
+The application may identify and provide direct actions for URLs, phone numbers, email addresses, payment links, geographical locations, Wi‑Fi credentials, contacts, and other data encoded in barcodes. DuhaLab does not own, operate, verify, or endorse third-party content accessed through scanned codes.
 
-DuhaLab is not responsible for:
+DuhaLab is not responsible or liable for:
 
-* The accuracy of third-party information
-* The availability of third-party websites or services
-* Malware, phishing, scams, or harmful content contained in third-party codes
-* Losses resulting from interactions with third-party services
-* Transactions or payments initiated through third-party services
+* The accuracy, validity, or legality of third-party information
+* The availability, security, or uptime of third-party websites or online services
+* Malware, phishing, scams, or harmful scripts hosted on third-party sites
+* Financial or personal losses resulting from interactions with third-party services
+* Transactions, purchases, or agreements initiated through external services
 
-Any interaction with an external website, application, service, or organization is subject to that third party's own terms and policies.
+Any interaction with an external website, application, network, or service is strictly governed by that third party's own terms and privacy policies.
+
+---
 
 ## 5. QR Code and Barcode Generation
 
-The application allows users to generate QR codes from information they provide.
+The application allows users to generate QR codes from information they manually input.
 
-You are responsible for the content encoded in QR codes you create.
+You retain responsibility for the content encoded in any QR codes you create.
 
 You agree not to use the application to create QR codes intended to:
 
-* Facilitate illegal activities
-* Distribute malicious software
-* Conduct fraud or scams
-* Phish for passwords or sensitive information
-* Infringe intellectual property or other legal rights
-* Distribute unlawful or harmful content
+* Facilitate illegal, fraudulent, or deceptive activities
+* Distribute malware, viruses, trojans, or harmful software
+* Conduct phishing for passwords, authentication tokens, or sensitive data
+* Infringe copyrights, trademarks, privacy rights, or other legal protections
+* Distribute defamatory, obscene, harassing, or unlawful content
 
-DuhaLab does not endorse or assume responsibility for user-generated QR code content.
+DuhaLab does not endorse or assume liability for user-generated QR code content.
+
+---
 
 ## 6. Privacy and Local Data
 
-ScanQ is designed with a privacy-focused approach.
+ScanQ is built with a privacy-first architecture:
 
-Depending on the feature and device platform, information such as scan history, favorites, settings, and generated content may be stored locally on your device.
+* Core features (scanning, code generation, scan history, favorites, settings) operate locally on your device.
+* The application does not require an account, registration, or login.
+* We do not maintain a cloud database of your scan history or generated codes.
 
-The application does not require an account for its core functionality.
+For detailed information on permissions, data handling, and third-party notification services (such as Firebase Cloud Messaging), please review our **Privacy Policy**.
 
-For information about data handling, permissions, and privacy practices, please review our **Privacy Policy**.
+---
 
-## 7. Permissions
+## 7. Device Permissions
 
-Some features require device permissions, including:
+Certain features require device permissions to operate:
 
-* **Camera:** Required for camera-based QR and barcode scanning.
-* **Photos/Storage:** May be required to select images for gallery scanning or save generated QR codes, depending on the operating system.
-* **Other system capabilities:** Certain actions, such as opening links, making calls, sending messages, or sharing content, may use functionality provided by your device or third-party applications.
+* **Camera (`android.permission.CAMERA`):** Required for live camera-based QR and barcode scanning. Camera frames are processed strictly in-memory and are never stored or transmitted.
+* **Photo / Gallery Access:** Used via Android's privacy-focused Photo Picker when you choose to scan an existing image from your device.
+* **Notification Permission (`android.permission.POST_NOTIFICATIONS`):** On Android 13+ devices, allows the App to deliver notifications for app updates, announcements, and important alerts via Firebase Cloud Messaging. You may grant or revoke this permission at any time in system settings.
+* **Vibration (`android.permission.VIBRATE`):** Provides tactile haptic feedback upon successful scan detection.
+* **Other Capabilities:** Certain actions (e.g., initiating phone calls or opening web links) hand off requests to your device's default system handlers with your confirmation.
 
-You may deny permissions, but some features may not function correctly without the required permissions.
+You may deny or revoke permissions at any time through your device settings, though some features may be limited without them.
 
-## 8. Offline Functionality
+---
 
-Core scanning and QR generation features may operate without an internet connection.
+## 8. Offline Functionality & Online Services
 
-However, some actions initiated from scanned content may require internet access or third-party services, including opening websites, accessing online resources, or using certain external applications.
+Core QR scanning, barcode decoding, and code creation operate entirely offline without an internet connection.
 
-Availability may depend on your device, operating system, network connection, and third-party services.
+However, certain actions and features require active internet access, including:
+* Opening scanned web links in a browser
+* Sending emails or initiating web-based actions
+* Receiving push notifications and update notices via Firebase Cloud Messaging
+
+Service availability and performance may depend on your device hardware, operating system, network connection, and third-party carriers.
+
+---
 
 ## 9. Intellectual Property
 
-The application, including its software, interface, design, branding, graphics, icons, and other original materials provided by DuhaLab, is owned by or licensed to **DuhaLab** and is protected by applicable intellectual property laws.
+The application, including its source code, UI/UX design, visual styling, icons, logos, trademarks, and documentation provided by DuhaLab, is owned by or licensed to **DuhaLab** and is protected by copyright, trademark, and other applicable intellectual property laws.
 
-You may use the application for personal or lawful business purposes in accordance with these Terms.
+You are granted a limited, personal, non-exclusive, non-transferable, revocable license to use the App in accordance with these Terms.
 
-You may not:
+You agree not to:
+* Copy, duplicate, sell, or commercially exploit the App without authorization
+* Decompile, reverse engineer, or attempt to extract source code, except where strictly permitted by applicable mandatory law
+* Modify, adapt, translate, or create derivative works of the App
+* Remove or alter any copyright, trademark, or proprietary notices
+* Use DuhaLab's name, logos, or brand assets without express prior written consent
 
-* Copy or redistribute the application without authorization
-* Reverse engineer or attempt to extract proprietary source code, except where permitted by applicable law
-* Modify or create unauthorized derivative versions of the application
-* Remove copyright, trademark, or proprietary notices
-* Use DuhaLab branding without permission
+Content and data you independently create or encode into QR codes remain your own responsibility.
 
-QR codes and content generated by users remain subject to the user's rights and responsibilities regarding the underlying content.
+---
 
 ## 10. Prohibited Use
 
-You must not use the application to:
+You agree not to use the application to:
 
-* Break or circumvent applicable laws
-* Commit fraud or deception
-* Distribute malware or harmful software
-* Facilitate unauthorized access to systems or accounts
-* Infringe intellectual property, privacy, or other rights
-* Harass, threaten, or harm others
-* Create or distribute unlawful content
-* Interfere with the operation or security of the application
+* Violate any applicable local, national, or international law or regulation
+* Commit fraud, extortion, or intentional misrepresentation
+* Distribute harmful payloads, trojans, or malicious software
+* Facilitate unauthorized access to computer systems, networks, or user accounts
+* Interfere with, disrupt, or compromise the security or integrity of the App
+* Harass, abuse, defame, or harm any individual or entity
 
-DuhaLab reserves the right to take reasonable technical or legal measures where misuse of the application is identified or reported.
+DuhaLab reserves the right to implement technical restrictions or seek legal remedies if abusive or unlawful behavior is detected.
 
-## 11. Disclaimer
+---
 
-The application is provided on an **"as is" and "as available"** basis to the extent permitted by applicable law.
+## 11. Disclaimer of Warranties
 
-DuhaLab does not guarantee that:
+The application is provided on an **"AS IS" and "AS AVAILABLE"** basis without warranties of any kind, whether express, implied, statutory, or otherwise.
 
-* The application will always be available
-* Every QR code or barcode will be successfully detected
-* Every supported format will scan correctly under all conditions
-* Generated QR codes will work with every third-party scanner
-* The application will be completely free from errors or interruptions
-* Third-party services accessed through the application will remain available
+To the fullest extent permitted by law, DuhaLab disclaims all warranties, including but not limited to:
+* Implied warranties of merchantability, fitness for a particular purpose, and non-infringement
+* That the application will operate uninterrupted, timely, secure, or error-free
+* That every barcode or QR code will be successfully recognized under all lighting or angle conditions
+* That generated QR codes will be universally compatible with all third-party scanners or reader hardware
+* That third-party websites or services linked via scanned codes will remain safe, online, or accurate
 
-Scanning performance can depend on factors such as camera quality, lighting, distance, image quality, barcode condition, device hardware, and supported formats.
+Barcode recognition quality depends on environmental factors, camera sensor capabilities, physical wear or distortion of printed codes, and display brightness.
+
+---
 
 ## 12. Limitation of Liability
 
-To the maximum extent permitted by applicable law, DuhaLab and its developers shall not be liable for indirect, incidental, special, consequential, or other losses arising from or related to:
+To the maximum extent permitted by applicable law, in no event shall DuhaLab, its developers, affiliates, or contributors be liable for any indirect, incidental, special, punitive, exemplary, or consequential damages, including but not limited to:
 
-* Use or inability to use the application
-* Information obtained from scanned QR codes or barcodes
-* Third-party websites, applications, or services
-* User-generated QR codes
-* Loss or deletion of locally stored history or data
-* Unauthorized or harmful content accessed through scanned codes
+* Loss of profits, data, goodwill, or business opportunities
+* Damages resulting from actions taken based on scanned third-party codes
+* Malware infections, phishing attacks, or fraud originating from external URLs
+* Accidental deletion or loss of local scan history or generated items
+* Temporary or permanent inability to access or use the application
 
-You are responsible for maintaining appropriate backups of any information that you consider important.
+You acknowledge that you are responsible for maintaining independent records or backups of any critical data you scan or generate.
 
-## 13. Updates and Changes
+---
 
-DuhaLab may update, modify, improve, suspend, or discontinue parts of the application at any time.
+## 13. Updates and Modifications
 
-We may also update these Terms of Service when necessary.
+DuhaLab reserves the right to update, modify, enhance, or discontinue any feature, functionality, or aspect of the App at any time without prior notice.
 
-When the Terms are updated, the **Last Updated** date at the top of this document will be changed. Your continued use of the application after an update means you accept the revised Terms.
+We may also revise these Terms of Service periodically. When updates occur, the **Last Updated** date at the top will be revised accordingly. Your continued use of the App following any update constitutes your acceptance of the revised Terms.
+
+---
 
 ## 14. Termination
 
-You may stop using the application at any time by uninstalling it from your device.
+You may terminate your agreement with these Terms at any time simply by uninstalling and ceasing all use of the application.
 
-DuhaLab may restrict or discontinue access to the application where reasonably necessary, including in cases of misuse, security concerns, legal requirements, or operational reasons.
+DuhaLab reserves the right to suspend or terminate support for the application where deemed reasonably necessary, including for maintenance, operational considerations, legal obligations, or misuse prevention.
+
+---
 
 ## 15. Children's Use
 
-The application is a general-purpose utility and is not specifically designed to collect personal information from children.
+ScanQ is a general-utility productivity tool and does not solicit personal data from children under the age of 13. Parents, guardians, or educators should supervise minors' use of connected mobile applications and external web browsing.
 
-Parents or guardians are responsible for supervising children's use of applications and devices where appropriate.
+---
 
 ## 16. Governing Law
 
-These Terms shall be interpreted in accordance with the applicable laws of the jurisdiction in which the user resides, except where applicable law requires otherwise.
+These Terms shall be governed by and construed in accordance with the applicable laws of the jurisdiction in which the developer operates or where the user resides, without regard to conflict of law principles.
 
-Nothing in these Terms limits any consumer rights or protections that cannot legally be excluded.
+Nothing in these Terms shall deprive consumers of statutory rights or protections that cannot be waived or limited by contract.
+
+---
 
 ## 17. Contact Us
 
-If you have questions, concerns, feedback, or support requests regarding these Terms or the application, please contact **DuhaLab**:
+If you have any questions, feedback, inquiries, or support requests regarding these Terms of Service or the ScanQ application, please contact us:
 
-**Developer / Company:** DuhaLab  
-**Email:** support@duhalab.com  
-**App:** ScanQ — QR Code & Barcode Scanner
+- **Developer / Publisher:** DuhaLab (Duha Lab)
+- **Email:** support@duhalab.com
+- **Application:** ScanQ — QR Code & Barcode Scanner
 
-## 18. Agreement
+---
 
-By installing or using ScanQ, you acknowledge that you have read, understood, and agreed to these Terms of Service.
+## 18. Entire Agreement
 
-**© 2026 DuhaLab. All rights reserved.**
+By downloading, installing, or using ScanQ, you acknowledge that you have read, understood, and agreed to be bound by these Terms of Service.
+
+*© 2026 DuhaLab. All rights reserved.*
