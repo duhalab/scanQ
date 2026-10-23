@@ -179,3 +179,10 @@ If you have any questions, feedback, or inquiries regarding this Privacy Policy 
 ---
 
 *© 2026 DuhaLab. All rights reserved.*
+
+# ScanQ — QR Code & Barcode Scanner
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
+[![Version](https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+**Download the app from Google Play:**  
+👉 **[ScanQ on Google Play](https://play.google.com/store/apps/details?id=com.duhalab.scanq)**
