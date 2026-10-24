@@ -51,6 +51,6 @@ ScanQ is an ultra-fast, lightweight, cross-platform Flutter application designed
 ## 👨‍💻 Developer
 
 Developed with ❤️ by **DuhaLab (Duha Lab)**  
-Contact: [support@duhalab.com](mailto:support@duhalab.com)
+Contact: [duhalab.bd@gmail.com](mailto:duhalab.bd@gmail.com)
 
 © 2026 DuhaLab. All rights reserved.
