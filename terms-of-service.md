@@ -1,12 +1,12 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
-[![Version](https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
+[![Version](https://img.shields.io/badge/Version-2.1.1-blue?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.duhalab.scanq)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 # Terms of Service
 
 **Effective Date:** October 24, 2026  
 **Last Updated:** October 24, 2026  
 **Developer / Publisher:** DuhaLab (Duha Lab)  
-**Contact Email:** support@duhalab.com
+**Contact Email:** duhalab.bd@gmail.com
 
 Welcome to **ScanQ — QR Code & Barcode Scanner**, a QR code and barcode scanning, generation, and utility application developed and provided by **DuhaLab (Duha Lab)** ("we," "our," or "the App").
 
@@ -242,7 +242,7 @@ Nothing in these Terms shall deprive consumers of statutory rights or protection
 If you have any questions, feedback, inquiries, or support requests regarding these Terms of Service or the ScanQ application, please contact us:
 
 - **Developer / Publisher:** DuhaLab (Duha Lab)
-- **Email:** support@duhalab.com
+- **Email:** duhalab.bd@gmail.com
 - **Application:** ScanQ — QR Code & Barcode Scanner
 
 ---
