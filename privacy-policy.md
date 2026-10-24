@@ -6,7 +6,7 @@
 **Effective Date:** October 24, 2026  
 **Last Updated:** October 24, 2026  
 **Developer / Publisher:** DuhaLab (Duha Lab)  
-**Contact Email:** support@duhalab.com
+**Contact Email:** duhalab.bd@gmail.com
 
 Welcome to **ScanQ - QR & Barcode Scanner** ("we," "our," or "the App"). This Privacy Policy explains how we handle information when you use the App.
 
